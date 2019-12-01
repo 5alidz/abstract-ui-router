@@ -1,0 +1,8 @@
+{
+  "name": "abstract-ui-router",
+  "version": "0.0.1",
+  "description": "router package for abstract-ui library",
+  "main": "main.js",
+  "author": "5alidz",
+  "license": "MIT"
+}
